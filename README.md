@@ -62,6 +62,6 @@ Os parâmetros do Access Point estão definidos no início do código. Você pod
 
 ```cpp
 // --- CONFIGURAÇÕES DO ACCESS POINT (AP) --- 
-const char* ssid = "CarroRobor";
-const char* password = "glgear2023";
+const char* ssid = "NomeWifiAqui";
+const char* password = "senhaAqui";
 const IPAddress local_IP(192, 168, 4, 1);

@@ -2,8 +2,8 @@
 #include <WebServer.h> 
 
 // --- CONFIGURAÇÕES DO ACCESS POINT (AP) --- 
-const char* ssid = "CarroRobor"; 
-const char* password = "glgear2023"; 
+const char* ssid = "NomeWifiAqui"; 
+const char* password = "senhaAqui"; 
 const IPAddress local_IP(192, 168, 4, 1); 
 
 // --- PINOS DO MOTOR (Usando const int para otimização) --- 
